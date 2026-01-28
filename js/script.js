@@ -1,5 +1,3 @@
- 
-
  let spanElem = document.querySelector('.counter')
  let inputElem = document.querySelector('.inputElem')
  inputElem.addEventListener('keyup', function (event) {  
