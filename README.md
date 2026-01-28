@@ -5,7 +5,7 @@
 
 <!-- Preview Image -->
 
-<img src="./assets/preview.png" alt="Project Preview" width="80%" />
+<img src="./image/preview.png" alt="Project Preview" width="80%" />
 
 <br/><br/>
 
@@ -51,6 +51,8 @@ The app focuses on **clean UI**, **input validation**, and **user-friendly inter
 ```bash
 ├─ css
 │  └─ style.css
+├─ image
+│  └─ preview.png
 ├─ index.html
 ├─ js
 │  └─ script.js
